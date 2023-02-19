@@ -1,4 +1,4 @@
-# Eric Stuhr!
+# Eric Stuhr's Page
 
 ### About me
 I'm Eric, currently studying computer science at Georgia Tech!
