@@ -1,5 +1,5 @@
 # Hi!
-
+![Picture of me!](mountain picture.jpg)
 ### About me
 I'm Eric, currently studying computer science at Georgia Tech!
 
