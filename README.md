@@ -1,7 +1,7 @@
 # Hi!
 ![Picture of me!](mountain picture.jpg)
 ### About me
-I'm Eric, currently studying computer science at Georgia Tech!
+I'm Eric, currently studying computer science at Georgia Tech! You can reach me here: estuhr1206@gmail.com
 
 Here's what I'm working on right now:
 * Interning at Verizon Business, in their Global Presales Lab as a solutions architect. Hoping to have fun directly interfacing with and testing the networking solutions that Verizon brings in the telecom space. 
