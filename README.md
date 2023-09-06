@@ -11,5 +11,5 @@ Here's what I'm working on right now:
 My info:
 * [Github](https://github.com/estuhr1206)
 * [LinkedIn](https://www.linkedin.com/in/eric-stuhr/)
-* <a href="Eric_Stuhr_Resume.pdf" target="_blank">Resume.</a>
+* <a href="Eric_Stuhr_Resume.pdf" target="_blank">Resume</a>
 
