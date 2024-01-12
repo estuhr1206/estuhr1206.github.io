@@ -1,4 +1,4 @@
-# Hi!
+# Eric Stuhr
 ![Picture of me!](mountain picture.jpg)
 ### About me
 I'm Eric, currently studying computer science at Georgia Tech! You can reach me here: estuhr1206@gmail.com
